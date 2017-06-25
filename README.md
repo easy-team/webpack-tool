@@ -2,11 +2,11 @@
 
 webpack build result view, support features:
 
-- webpack build server, build file to memory, support hot update
+- webpack build server, file memory, hot update.
 
-- webpack build file to dist
+- webpack build file to disk.
 
-- support webpack build result ui view
+- support webpack build result ui view.
 
 
 ## Install
