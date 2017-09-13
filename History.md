@@ -1,4 +1,9 @@
 
+3.1.0 / 2017-09-13
+==================
+
+  * feat: support build mode show build result ui view
+
 0.2.0 / 2017-07-18
 ==================
 
