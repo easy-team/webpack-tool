@@ -1,18 +1,18 @@
 # Webpack-tool
 
-Webpack3 (3.0.0) And Webpack2 (2.0.0) Build Tool, Support Features:
+Webpack3 (Webpack-tool 3.0.0) And Webpack2 (Webpack-tool 2.0.0) Build Tool, Support Features:
 
-- Webpack build server, file memory, hot update.
+- development mode, webpack build server, file memory, hot update.
 
-- Webpack build file to disk.
+- publish mode, webpack build file to disk.
 
-- Support Webpack build result ui view.
+- support webpack build result ui view.
 
 
 ## Install
 
 ```bash
-$ npm i Webpack-tool --save
+$ npm i webpack-tool --save
 ```
 
 ## Usage
@@ -22,15 +22,17 @@ $ npm i Webpack-tool --save
 const WebpackTool = require('webpack-tool');
 const weexNativeConfig = require('./weex/native');
 const weexWebConfig = require('./weex/web');
-const NODE_SERVER = process.env.NODE_SERVER;
+const NODE_ENV = process.env.VIEW;
 
 const webpackConfig = [weexNativeConfig, weexWebConfig];
 
 const webpackTool = new WebpackTool();
 
-if (NODE_SERVER) {
+if (NODE_ENV === 'development') {
+  // start webpack build and show build result ui view
   webpackTool.server(webpackConfig);
 } else {
+  // if you want to show build result ui view for build mode, please set  process.env.BUILD_VIEW=true
   webpackTool.build(webpackConfig);
 }
 ```
@@ -48,7 +50,6 @@ if (NODE_SERVER) {
 npm start
 ```
 
-Start Webpack Debug Server: http://127.0.0.1:9000/debug
+Start Webpack Debug Server: http://127.0.0.1:8888/debug
 
-
-![UI-VIEW](https://github.com/hubcarl/Webpack-tool/blob/master/doc/Webpack-tool-ui-view.png)
+![UI-VIEW](https://github.com/hubcarl/webpack-tool/blob/master/doc/webpack-tool-ui-view.png)
