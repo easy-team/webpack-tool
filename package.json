@@ -1,6 +1,6 @@
 {
   "name": "webpack-tool",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "webpack build and webpack build result web view",
   "keywords": [
     "webpack",
@@ -15,9 +15,9 @@
     "koa-webpack-dev-middleware": "^1.2.2",
     "koa-webpack-hot-middleware": "^1.0.3",
     "opn": "^5.1.0",
-    "webpack": "^2.4.1",
+    "webpack": "^3.5.5",
     "webpack-hot-middleware": "^2.18.0",
-    "webpack-merge": "^2.4.0"
+    "webpack-merge": "^4.1.0"
   },
   "devDependencies": {
     "eslint": "^3.18.0",

@@ -1,18 +1,18 @@
-# webpack-tool
+# Webpack-tool
 
-webpack build result view, support features:
+Webpack3 (3.0.0) And Webpack2 (2.0.0) Build Tool, Support Features:
 
-- webpack build server, file memory, hot update.
+- Webpack build server, file memory, hot update.
 
-- webpack build file to disk.
+- Webpack build file to disk.
 
-- support webpack build result ui view.
+- Support Webpack build result ui view.
 
 
 ## Install
 
 ```bash
-$ npm i webpack-tool --save
+$ npm i Webpack-tool --save
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ if (NODE_SERVER) {
 
 ```js
 "scripts": {
-    "start": "cross-env node build",
+  "start": "cross-env node build"
  }   
 ```
 
@@ -48,7 +48,7 @@ if (NODE_SERVER) {
 npm start
 ```
 
-start webpack debug server: http://127.0.0.1:9000/debug
+Start Webpack Debug Server: http://127.0.0.1:9000/debug
 
 
-![UI-VIEW](https://github.com/hubcarl/webpack-tool/blob/master/doc/webpack-tool-ui-view.png)
+![UI-VIEW](https://github.com/hubcarl/Webpack-tool/blob/master/doc/Webpack-tool-ui-view.png)
