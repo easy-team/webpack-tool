@@ -1,6 +1,6 @@
 {
   "name": "webpack-tool",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "description": "webpack build and webpack build result web view",
   "keywords": [
     "webpack",
