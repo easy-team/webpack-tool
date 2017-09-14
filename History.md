@@ -1,4 +1,9 @@
 
+3.1.3 / 2017-09-14
+==================
+
+  * feat:build and server method support option param
+
 3.1.2 / 2017-09-14
 ==================
 
