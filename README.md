@@ -1,6 +1,6 @@
 # Webpack-tool
 
-Webpack3 (Webpack-tool 3.0.0) And Webpack2 (Webpack-tool 2.0.0) Build Tool, Support Features:
+Webpack Build Tool, Support Features:
 
 - development mode, webpack build server, file memory, hot update.
 
@@ -8,6 +8,12 @@ Webpack3 (Webpack-tool 3.0.0) And Webpack2 (Webpack-tool 2.0.0) Build Tool, Supp
 
 - support webpack build result ui view.
 
+- support http proxy by [koa-proxy](https://github.com/popomore/koa-proxy)
+
+## Version
+
+- webpack 4: webpack-tool: 4.x.x
+- webpack 3: webpack-tool: 3.x.x
 
 ## Install
 
@@ -20,13 +26,24 @@ $ npm i webpack-tool --save
 ```js
 //build/index.js
 const WebpackTool = require('webpack-tool');
-const weexNativeConfig = require('./weex/native');
-const weexWebConfig = require('./weex/web');
 const NODE_ENV = process.env.VIEW;
 
-const webpackConfig = [weexNativeConfig, weexWebConfig];
+const webpackTool = new WebpackTool({
+  proxy: {
+    host:  'http://localhost:8888',   
+    match: /\/debug/
+  }
+});
 
-const webpackTool = new WebpackTool();
+const webpackConfig = {
+  entry:{
+    index: './src/index.js'
+  },
+  module:{
+    rules:[]
+  }
+  plugins: []
+};
 
 if (NODE_ENV === 'development') {
   // start webpack build and show build result ui view
