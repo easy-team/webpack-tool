@@ -1,6 +1,6 @@
 {
   "name": "webpack-tool",
-  "version": "4.0.0-beta.2",
+  "version": "4.0.0-beta.3",
   "description": "webpack build and webpack build result web view",
   "keywords": [
     "webpack",
@@ -18,7 +18,6 @@
     "koa-webpack-hot-middleware": "^1.0.3",
     "opn": "^5.1.0",
     "webpack": "^4.0.0",
-    "webpack-hot-middleware": "^2.18.0",
     "webpack-merge": "^4.1.0"
   },
   "devDependencies": {
