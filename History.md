@@ -1,3 +1,10 @@
+4.0.0 / 2018-03-07
+==================
+
+  * feat: format webpack stats show info
+  * feat: support http proxy use koa-proxy
+  * deps: upgrade webpack 4
+  * feat: use koa-proxy proxy static resource
 
 3.1.3 / 2017-09-14
 ==================
