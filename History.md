@@ -1,3 +1,9 @@
+
+4.0.1 / 2018-03-29
+==================
+
+  * fix: webpack 4.3.0  extract-text-webpack-plugin error, use webpack 4.2.0
+  * doc: update readme
 4.0.0 / 2018-03-07
 ==================
 
