@@ -1,3 +1,13 @@
+<a name="4.0.3"></a>
+## [4.0.3](https://github.com/hubcarl/webpack-tool/compare/4.0.1...4.0.3) (2018-05-30)
+
+
+### Bug Fixes
+
+* Webpack Tapable.plugin已经弃用，改为在.hooks上使用新API https://github.com/hubcarl/egg-vue-webpack-boilerplate/issues/64 ([3754b95](https://github.com/hubcarl/webpack-tool/commit/3754b95))
+
+
+
 <a name="4.0.2"></a>
 ## [4.0.2](https://github.com/hubcarl/webpack-tool/compare/4.0.1...4.0.2) (2018-05-30)
 
