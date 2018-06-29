@@ -1,3 +1,13 @@
+<a name="4.1.0"></a>
+# [4.1.0](https://github.com/hubcarl/webpack-tool/compare/4.0.3...4.1.0) (2018-06-29)
+
+
+### Features
+
+* webpack 4.2.0 to latest version ([5b4befe](https://github.com/hubcarl/webpack-tool/commit/5b4befe))
+
+
+
 <a name="4.0.3"></a>
 ## [4.0.3](https://github.com/hubcarl/webpack-tool/compare/4.0.1...4.0.3) (2018-05-30)
 
