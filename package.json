@@ -46,6 +46,9 @@
     "type": "git",
     "url": "git+https://github.com/hubcarl/webpack-tool.git"
   },
+  "publishConfig": {
+    "tag": "3.x"
+  },
   "bugs": {
     "url": "https://github.com/hubcarl/webpack-tool/issues"
   },
