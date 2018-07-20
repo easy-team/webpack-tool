@@ -1,3 +1,13 @@
+<a name="4.1.1"></a>
+## [4.1.1](https://github.com/hubcarl/webpack-tool/compare/4.1.0...4.1.1) (2018-07-20)
+
+
+### Bug Fixes
+
+* no cache for static resource ([999de7b](https://github.com/hubcarl/webpack-tool/commit/999de7b))
+
+
+
 <a name="4.1.0"></a>
 # [4.1.0](https://github.com/hubcarl/webpack-tool/compare/4.0.3...4.1.0) (2018-06-29)
 
