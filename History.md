@@ -1,4 +1,14 @@
 
+3.1.7 / 2018-08-21
+==================
+
+  * fix: stats display
+  * fix: filter stats display
+  * chore: publish 3.x
+  * fix: cache-control
+  * Release 3.1.5
+  * fix: view only show html
+
 3.1.5 / 2018-04-10
 ==================
 
