@@ -12,14 +12,16 @@
   "dependencies": {
     "art-template": "^4.11.0",
     "chalk": "^1.1.3",
+    "detect-port": "^1.2.3",
     "kcors": "^1.3.2",
     "koa": "^1.2.4",
     "koa-proxy": "^0.8.0",
     "koa-static": "^1.5.2",
-    "webpack-dev-middleware": "^3.1.3",
     "koa-webpack-hot-middleware": "^1.0.3",
+    "node-tool-utils": "^1.0.0",
     "opn": "^5.1.0",
     "webpack": "^4.13.0",
+    "webpack-dev-middleware": "^3.1.3",
     "webpack-merge": "^4.1.0"
   },
   "devDependencies": {
@@ -28,7 +30,7 @@
     "eslint-config-eslint": "^4.0.0"
   },
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=6.0.0"
   },
   "scripts": {
     "lint": "eslint .",
@@ -44,7 +46,7 @@
     "tool"
   ],
   "ci": {
-    "version": "8,10"
+    "version": "6,8,10"
   },
   "repository": {
     "type": "git",
