@@ -1,3 +1,13 @@
+<a name="4.2.1"></a>
+## [4.2.1](https://github.com/hubcarl/webpack-tool/compare/4.2.0...4.2.1) (2018-10-31)
+
+
+### Bug Fixes
+
+* webpack build error, no exit https://webpack.js.org/api/node/#webpack-  ([5d6a219](https://github.com/hubcarl/webpack-tool/commit/5d6a219))
+
+
+
 <a name="4.1.1"></a>
 ## [4.1.1](https://github.com/hubcarl/webpack-tool/compare/4.1.0...4.1.1) (2018-07-20)
 
