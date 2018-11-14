@@ -1,3 +1,13 @@
+<a name="4.3.0"></a>
+# [4.3.0](https://github.com/hubcarl/webpack-tool/compare/4.2.1...4.3.0) (2018-11-14)
+
+
+### Features
+
+* support proxy and historyApiFallback ([7579bc9](https://github.com/hubcarl/webpack-tool/commit/7579bc9))
+
+
+
 <a name="4.2.1"></a>
 ## [4.2.1](https://github.com/hubcarl/webpack-tool/compare/4.2.0...4.2.1) (2018-10-31)
 
