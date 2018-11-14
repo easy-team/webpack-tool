@@ -1,14 +1,10 @@
-# Webpack-tool
+# webpack-tool
 
 Webpack Build Tool, Support Features:
 
-- development mode, webpack build server, file memory, hot update.
+- development mode, start webpack koa server, file memory, hot update.
 
-- publish mode, webpack build file to disk.
-
-- support webpack build result ui view.
-
-- support http proxy by [koa-proxy](https://github.com/popomore/koa-proxy)
+- production mode, webpack build file to disk.
 
 ## Version
 
@@ -29,9 +25,22 @@ const WebpackTool = require('webpack-tool');
 const NODE_ENV = process.env.VIEW;
 
 const webpackTool = new WebpackTool({
-  proxy: {
-    host:  'http://localhost:8888',   
-    match: /\/debug/
+  devServer: {
+    before: before => {
+      // register koa middleware
+    },
+    after: app => {
+      // register koa middleware
+    },
+    proxy: {
+      '/api': {
+        target: 'http://localhost:3000',
+        pathRewrite: {'^/api' : ''}
+      }
+    },
+    historyApiFallback: {
+      index: '/app.html'
+    }
   }
 });
 
@@ -54,6 +63,17 @@ if (NODE_ENV === 'development') {
 }
 ```
 
+## Configuration
+
+`config.devServer` support follow option:
+
+- `proxy` {Object} see https://webpack.docschina.org/configuration/dev-server/#devserver-proxy
+
+- `historyApiFallback` {Object} see https://webpack.docschina.org/configuration/dev-server/#devserver-historyapifallback
+
+- `before` {Function} see https://webpack.docschina.org/configuration/dev-server/#devserver-before
+
+- `after` {Function} see https://webpack.docschina.org/configuration/dev-server/#devserver-after
 
 ## Run
 
