@@ -1,3 +1,13 @@
+<a name="4.3.2"></a>
+## [4.3.2](https://github.com/hubcarl/webpack-tool/compare/4.3.0...4.3.2) (2018-11-15)
+
+
+### Bug Fixes
+
+* webpack build error, no exit ([f719fe8](https://github.com/hubcarl/webpack-tool/commit/f719fe8))
+
+
+
 <a name="4.3.0"></a>
 # [4.3.0](https://github.com/hubcarl/webpack-tool/compare/4.2.1...4.3.0) (2018-11-14)
 
