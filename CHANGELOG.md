@@ -1,3 +1,13 @@
+<a name="4.4.1"></a>
+## [4.4.1](https://github.com/hubcarl/webpack-tool/compare/4.3.2...4.4.1) (2019-01-22)
+
+
+### Features
+
+* add cache webpack info ([aadde20](https://github.com/hubcarl/webpack-tool/commit/aadde20))
+
+
+
 <a name="4.3.2"></a>
 ## [4.3.2](https://github.com/hubcarl/webpack-tool/compare/4.3.0...4.3.2) (2018-11-15)
 
