@@ -1,3 +1,13 @@
+<a name="4.4.2"></a>
+## [4.4.2](https://github.com/hubcarl/webpack-tool/compare/4.4.1...4.4.2) (2019-02-21)
+
+
+### Bug Fixes
+
+* browser auto open and navigation url error ([315cb80](https://github.com/hubcarl/webpack-tool/commit/315cb80))
+
+
+
 <a name="4.4.1"></a>
 ## [4.4.1](https://github.com/hubcarl/webpack-tool/compare/4.3.2...4.4.1) (2019-01-22)
 
