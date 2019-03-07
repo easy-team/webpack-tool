@@ -1,3 +1,13 @@
+<a name="4.4.3"></a>
+## [4.4.3](https://github.com/hubcarl/webpack-tool/compare/4.4.2...4.4.3) (2019-03-07)
+
+
+### Bug Fixes
+
+* lock  webpack-dev-middleware@3.6.0 https://github.com/webpack/webpack-dev-middleware/issues/380 ([6801ed3](https://github.com/hubcarl/webpack-tool/commit/6801ed3))
+
+
+
 <a name="4.4.2"></a>
 ## [4.4.2](https://github.com/hubcarl/webpack-tool/compare/4.4.1...4.4.2) (2019-02-21)
 
