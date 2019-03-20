@@ -1,3 +1,13 @@
+<a name="4.4.4"></a>
+## [4.4.4](https://github.com/hubcarl/webpack-tool/compare/4.4.3...4.4.4) (2019-03-20)
+
+
+### Bug Fixes
+
+* lock webpack@4.28.4 for https://github.com/webpack/webpack/issues/8656 ([50a5e22](https://github.com/hubcarl/webpack-tool/commit/50a5e22))
+
+
+
 <a name="4.4.3"></a>
 ## [4.4.3](https://github.com/hubcarl/webpack-tool/compare/4.4.2...4.4.3) (2019-03-07)
 
