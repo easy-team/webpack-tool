@@ -1,3 +1,13 @@
+<a name="4.4.6"></a>
+## [4.4.6](https://github.com/hubcarl/webpack-tool/compare/4.4.5...4.4.6) (2019-04-03)
+
+
+### Bug Fixes
+
+* [@easy-team](https://github.com/easy-team)/koa-history-api-fallback require ([5d83c87](https://github.com/hubcarl/webpack-tool/commit/5d83c87))
+
+
+
 <a name="4.4.5"></a>
 ## [4.4.5](https://github.com/hubcarl/webpack-tool/compare/4.4.4...4.4.5) (2019-04-03)
 
