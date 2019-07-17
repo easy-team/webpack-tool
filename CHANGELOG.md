@@ -1,3 +1,14 @@
+<a name="4.4.7"></a>
+## [4.4.7](https://github.com/hubcarl/webpack-tool/compare/4.4.6...4.4.7) (2019-07-17)
+
+
+### Bug Fixes
+
+* port used check and create new port ([36ef668](https://github.com/hubcarl/webpack-tool/commit/36ef668))
+* remove repeast code ([5fe2d46](https://github.com/hubcarl/webpack-tool/commit/5fe2d46))
+
+
+
 <a name="4.4.6"></a>
 ## [4.4.6](https://github.com/hubcarl/webpack-tool/compare/4.4.5...4.4.6) (2019-04-03)
 
