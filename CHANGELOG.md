@@ -1,5 +1,5 @@
 <a name="4.4.7"></a>
-## [4.4.7](https://github.com/hubcarl/webpack-tool/compare/4.4.6...4.4.7) (2019-09-30)
+## [4.4.8](https://github.com/hubcarl/webpack-tool/compare/4.4.6...4.4.7) (2019-09-30)
 
 
 ### Bug Fixes
