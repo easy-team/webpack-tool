@@ -1,3 +1,13 @@
+<a name="4.4.7"></a>
+## [4.4.7](https://github.com/hubcarl/webpack-tool/compare/4.4.6...4.4.7) (2019-09-30)
+
+
+### Bug Fixes
+
+* cli name show ([c69e34a](https://github.com/hubcarl/webpack-tool/commit/c69e34a))
+
+
+
 <a name="4.4.6"></a>
 ## [4.4.6](https://github.com/hubcarl/webpack-tool/compare/4.4.5...4.4.6) (2019-04-03)
 
