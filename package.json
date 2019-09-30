@@ -1,6 +1,6 @@
 {
   "name": "webpack-tool",
-  "version": "4.4.6",
+  "version": "4.4.7",
   "description": "webpack build and webpack build result web view",
   "keywords": [
     "webpack",
@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "art-template": "^4.11.0",
-    "chalk": "^1.1.3",
+    "chalk": "^2.0.0",
     "detect-port": "^1.2.3",
     "easy-helper": "^1.0.2",
     "http-proxy": "^1.17.0",
