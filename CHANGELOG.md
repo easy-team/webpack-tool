@@ -1,3 +1,13 @@
+<a name="4.4.9"></a>
+## [4.4.9](https://github.com/hubcarl/webpack-tool/compare/4.4.8...4.4.9) (2019-10-09)
+
+
+### Bug Fixes
+
+* customize cli when process mode ([de409f9](https://github.com/hubcarl/webpack-tool/commit/de409f9))
+
+
+
 <a name="4.4.7"></a>
 ## [4.4.8](https://github.com/hubcarl/webpack-tool/compare/4.4.6...4.4.7) (2019-09-30)
 
