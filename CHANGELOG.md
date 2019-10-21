@@ -1,3 +1,13 @@
+<a name="4.5.0"></a>
+# [4.5.0](https://github.com/hubcarl/webpack-tool/compare/4.4.9...4.5.0) (2019-10-21)
+
+
+### Features
+
+* support proxy pathRewrite ([a0b1be4](https://github.com/hubcarl/webpack-tool/commit/a0b1be4))
+
+
+
 <a name="4.4.9"></a>
 ## [4.4.9](https://github.com/hubcarl/webpack-tool/compare/4.4.8...4.4.9) (2019-10-09)
 
