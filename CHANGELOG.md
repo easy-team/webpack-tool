@@ -1,3 +1,13 @@
+<a name="4.5.1"></a>
+## [4.5.1](https://github.com/hubcarl/webpack-tool/compare/4.5.0...4.5.1) (2019-10-25)
+
+
+### Bug Fixes
+
+* webpack build err not display ([f063637](https://github.com/hubcarl/webpack-tool/commit/f063637))
+
+
+
 <a name="4.5.0"></a>
 # [4.5.0](https://github.com/hubcarl/webpack-tool/compare/4.4.9...4.5.0) (2019-10-21)
 
