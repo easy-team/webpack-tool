@@ -1,3 +1,14 @@
+<a name="4.5.3"></a>
+## [4.5.3](https://github.com/hubcarl/webpack-tool/compare/4.5.2...4.5.3) (2020-04-11)
+
+
+### Bug Fixes
+
+* https://github.com/easy-team/webpack-tool/issues/5 ([63df8c2](https://github.com/hubcarl/webpack-tool/commit/63df8c2))
+* reference error ([4038239](https://github.com/hubcarl/webpack-tool/commit/4038239))
+
+
+
 <a name="4.5.1"></a>
 ## [4.5.1](https://github.com/hubcarl/webpack-tool/compare/4.5.0...4.5.1) (2019-10-25)
 
