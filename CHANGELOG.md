@@ -1,3 +1,12 @@
+## [4.5.4](https://github.com/hubcarl/webpack-tool/compare/4.5.3...4.5.4) (2020-09-05)
+
+
+### Bug Fixes
+
+* mutil webpack target web config ([89c1053](https://github.com/hubcarl/webpack-tool/commit/89c1053b8e19292ca38081fdf221b380a761069d))
+
+
+
 <a name="4.5.3"></a>
 ## [4.5.3](https://github.com/hubcarl/webpack-tool/compare/4.5.2...4.5.3) (2020-04-11)
 
