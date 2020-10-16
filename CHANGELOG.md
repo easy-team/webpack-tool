@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/easy-team/webpack-tool/compare/4.5.4...5.0.0) (2020-10-16)
+
+
+### Features
+
+* adapter koa2 middleware ([1b413a8](https://github.com/easy-team/webpack-tool/commit/1b413a8e5e10b4e5428fc91ccf3c892c8ce834e8))
+* export KoaWebpackHotMiddleware and KoaWebpackDevMiddleware, KoaProxyMiddleware ([6738e1c](https://github.com/easy-team/webpack-tool/commit/6738e1ce96eb382bb6409f6a635417bdd6fce8e7))
+* koa2 dev middleware for webpack 5 ([876dd9b](https://github.com/easy-team/webpack-tool/commit/876dd9bfac7430c2501e0f4ad754c6a2dc636164))
+* upgrade koa 1 to koa2 for webpack 5 ([c2e1731](https://github.com/easy-team/webpack-tool/commit/c2e1731b3078ca540d3fbd3031ca3bd7f9987f96))
+
+
+
 # [5.0.0-beta.2](https://github.com/easy-team/webpack-tool/compare/4.5.4...5.0.0-beta.2) (2020-09-12)
 
 

@@ -1,6 +1,6 @@
 # webpack-tool
 
-Webpack Build Tool, Support Features:
+Koa Webpack Dev Server:
 
 - development mode, start webpack koa server, file memory, hot update.
 
@@ -8,6 +8,7 @@ Webpack Build Tool, Support Features:
 
 ## Version
 
+- webpack 5: webpack-tool: 5.x.x
 - webpack 4: webpack-tool: 4.x.x
 - webpack 3: webpack-tool: 3.x.x
 
@@ -80,7 +81,7 @@ if (NODE_ENV === 'development') {
 ```js
 "scripts": {
   "start": "cross-env node build"
- }   
+ }
 ```
 
 ```bash
