@@ -1,3 +1,12 @@
+## [5.0.1](https://github.com/easy-team/webpack-tool/compare/5.0.0...5.0.1) (2021-06-24)
+
+
+### Bug Fixes
+
+* add webpack-dev-middleware missing options ([03a5fc1](https://github.com/easy-team/webpack-tool/commit/03a5fc1547cb314acd91b301d6a9dd749ec028d8))
+
+
+
 # [5.0.0](https://github.com/easy-team/webpack-tool/compare/4.5.4...5.0.0) (2020-10-16)
 
 
