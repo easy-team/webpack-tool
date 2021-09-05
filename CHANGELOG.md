@@ -1,3 +1,12 @@
+## [5.0.2](https://github.com/easy-team/webpack-tool/compare/5.0.1...5.0.2) (2021-09-05)
+
+
+### Bug Fixes
+
+* proxy require ([b127459](https://github.com/easy-team/webpack-tool/commit/b12745943e686cfe868aa39d13535f2db5e6824a))
+
+
+
 ## [5.0.1](https://github.com/easy-team/webpack-tool/compare/5.0.0...5.0.1) (2021-06-24)
 
 
