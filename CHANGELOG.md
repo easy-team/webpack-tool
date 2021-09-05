@@ -1,4 +1,4 @@
-## [5.0.2](https://github.com/easy-team/webpack-tool/compare/5.0.1...5.0.2) (2021-09-05)
+## [5.0.4](https://github.com/easy-team/webpack-tool/compare/5.0.3...5.0.4) (2021-09-05)
 
 
 ### Bug Fixes
