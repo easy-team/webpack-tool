@@ -35,6 +35,40 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@jridgewell/gen-mapping@^0.3.0":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.3.2.tgz#c1aedc61e853f2bb9f5dfe6d4442d3b565b253b9"
+  dependencies:
+    "@jridgewell/set-array" "^1.0.1"
+    "@jridgewell/sourcemap-codec" "^1.4.10"
+    "@jridgewell/trace-mapping" "^0.3.9"
+
+"@jridgewell/resolve-uri@^3.0.3":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz#2203b118c157721addfe69d47b70465463066d78"
+
+"@jridgewell/set-array@^1.0.1":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@jridgewell/set-array/-/set-array-1.1.2.tgz#7c6cf998d6d20b914c0a55a91ae928ff25965e72"
+
+"@jridgewell/source-map@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@jridgewell/source-map/-/source-map-0.3.2.tgz#f45351aaed4527a298512ec72f81040c998580fb"
+  dependencies:
+    "@jridgewell/gen-mapping" "^0.3.0"
+    "@jridgewell/trace-mapping" "^0.3.9"
+
+"@jridgewell/sourcemap-codec@^1.4.10":
+  version "1.4.14"
+  resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz#add4c98d341472a289190b424efbdb096991bb24"
+
+"@jridgewell/trace-mapping@^0.3.9":
+  version "0.3.14"
+  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.14.tgz#b231a081d8f66796e475ad588a1ef473112701ed"
+  dependencies:
+    "@jridgewell/resolve-uri" "^3.0.3"
+    "@jridgewell/sourcemap-codec" "^1.4.10"
+
 "@types/eslint-scope@^3.7.0":
   version "3.7.0"
   resolved "https://registry.npm.taobao.org/@types/eslint-scope/download/@types/eslint-scope-3.7.0.tgz?cache=0&sync_timestamp=1596841499034&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Feslint-scope%2Fdownload%2F%40types%2Feslint-scope-3.7.0.tgz#4792816e31119ebd506902a482caec4951fabd86"
@@ -236,9 +270,9 @@ acorn@^7.4.0:
   version "7.4.1"
   resolved "https://registry.npm.taobao.org/acorn/download/acorn-7.4.1.tgz#feaed255973d2e77555b83dbc08851a6c63520fa"
 
-acorn@^8.0.3:
-  version "8.0.4"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-8.0.4.tgz#7a3ae4191466a6984eee0fe3407a4f3aa9db8354"
+acorn@^8.0.3, acorn@^8.5.0:
+  version "8.7.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.7.1.tgz#0197122c843d1bf6d0a5e83220a788f278f63c30"
 
 add-stream@^1.0.0:
   version "1.0.0"
@@ -363,8 +397,8 @@ browserslist@^4.14.3:
     node-releases "^1.1.61"
 
 buffer-from@^1.0.0:
-  version "1.1.1"
-  resolved "https://registry.npm.taobao.org/buffer-from/download/buffer-from-1.1.1.tgz#32713bc028f75c02fdb710d7c7bcec1f2c6070ef"
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/buffer-from/-/buffer-from-1.1.2.tgz#2b146a6fd72e80b4f55d255f35ed59a3a9a41bd5"
 
 cache-content-type@^1.0.0:
   version "1.0.1"
@@ -480,7 +514,7 @@ commander@2.17.x:
 
 commander@^2.20.0:
   version "2.20.3"
-  resolved "https://registry.npm.taobao.org/commander/download/commander-2.20.3.tgz?cache=0&sync_timestamp=1598576153505&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcommander%2Fdownload%2Fcommander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
 
 commander@~2.19.0:
   version "2.19.0"
@@ -2175,9 +2209,9 @@ source-list-map@^2.0.1:
   version "2.0.1"
   resolved "https://registry.npm.taobao.org/source-list-map/download/source-list-map-2.0.1.tgz#3993bd873bfc48479cca9ea3a547835c7c154b34"
 
-source-map-support@~0.5.19:
-  version "0.5.19"
-  resolved "https://registry.npm.taobao.org/source-map-support/download/source-map-support-0.5.19.tgz?cache=0&sync_timestamp=1591174993503&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsource-map-support%2Fdownload%2Fsource-map-support-0.5.19.tgz#a98b62f86dcaf4f67399648c085291ab9e8fed61"
+source-map-support@~0.5.20:
+  version "0.5.21"
+  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.21.tgz#04fe7c7f9e1ed2d662233c28cb2b35b9f63f6e4f"
   dependencies:
     buffer-from "^1.0.0"
     source-map "^0.6.0"
@@ -2189,10 +2223,6 @@ source-map@^0.5.6:
 source-map@^0.6.0, source-map@^0.6.1, source-map@~0.6.0, source-map@~0.6.1:
   version "0.6.1"
   resolved "https://registry.npm.taobao.org/source-map/download/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
-
-source-map@~0.7.2:
-  version "0.7.3"
-  resolved "https://registry.npm.taobao.org/source-map/download/source-map-0.7.3.tgz#5302f8169031735226544092e64981f751750383"
 
 spdx-correct@^3.0.0:
   version "3.1.1"
@@ -2352,12 +2382,13 @@ terser-webpack-plugin@^5.0.0:
     terser "^5.3.5"
 
 terser@^5.3.5:
-  version "5.3.5"
-  resolved "https://registry.npm.taobao.org/terser/download/terser-5.3.5.tgz#9e080baa0568f96654621b20eb9effa440b1484e"
+  version "5.14.2"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.14.2.tgz#9ac9f22b06994d736174f4091aa368db896f1c10"
   dependencies:
+    "@jridgewell/source-map" "^0.3.2"
+    acorn "^8.5.0"
     commander "^2.20.0"
-    source-map "~0.7.2"
-    source-map-support "~0.5.19"
+    source-map-support "~0.5.20"
 
 text-extensions@^1.0.0:
   version "1.9.0"
