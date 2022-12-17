@@ -1,3 +1,12 @@
+## [5.0.5](https://github.com/easy-team/webpack-tool/compare/5.0.4...5.0.5) (2022-12-17)
+
+
+### Bug Fixes
+
+* webpack dev server http proxy 404 ([fb772eb](https://github.com/easy-team/webpack-tool/commit/fb772eb88f274bc016cca7fb794d3fd483d87849))
+
+
+
 ## [5.0.4](https://github.com/easy-team/webpack-tool/compare/5.0.3...5.0.4) (2021-09-05)
 
 
