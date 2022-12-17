@@ -1092,8 +1092,8 @@ graceful-fs@^4.1.2, graceful-fs@^4.2.4:
   resolved "https://registry.npm.taobao.org/graceful-fs/download/graceful-fs-4.2.4.tgz#2256bde14d3632958c465ebc96dc467ca07a29fb"
 
 handlebars@^4.7.6:
-  version "4.7.6"
-  resolved "https://registry.npm.taobao.org/handlebars/download/handlebars-4.7.6.tgz#d4c05c1baf90e9945f77aa68a7a219aa4a7df74e"
+  version "4.7.7"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.7.7.tgz#9ce33416aad02dbd6c8fafa8240d5d98004945a1"
   dependencies:
     minimist "^1.2.5"
     neo-async "^2.6.0"
@@ -1633,7 +1633,7 @@ minimist-options@^3.0.1:
 
 minimist@^1.1.3, minimist@^1.2.5:
   version "1.2.5"
-  resolved "https://registry.npm.taobao.org/minimist/download/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
 
 mkdirp@^0.5.1:
   version "0.5.5"
@@ -2458,8 +2458,8 @@ uglify-js@3.4.x:
     source-map "~0.6.1"
 
 uglify-js@^3.1.4:
-  version "3.11.2"
-  resolved "https://registry.npm.taobao.org/uglify-js/download/uglify-js-3.11.2.tgz?cache=0&sync_timestamp=1602426286299&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fuglify-js%2Fdownload%2Fuglify-js-3.11.2.tgz#9f50325544273c27b20e586def140e7726c525ea"
+  version "3.13.10"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.13.10.tgz#a6bd0d28d38f592c3adb6b180ea6e07e1e540a8d"
 
 upper-case@^1.1.1:
   version "1.1.3"
@@ -2574,7 +2574,7 @@ word-wrap@^1.2.3, word-wrap@~1.2.3:
 
 wordwrap@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npm.taobao.org/wordwrap/download/wordwrap-1.0.0.tgz#27584810891456a4171c8d0226441ade90cbcaeb"
+  resolved "https://registry.yarnpkg.com/wordwrap/-/wordwrap-1.0.0.tgz#27584810891456a4171c8d0226441ade90cbcaeb"
 
 wrappy@1:
   version "1.0.2"
